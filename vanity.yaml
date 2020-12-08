@@ -1,8 +1,12 @@
-host: rakyll.pizza
+host: code.hasty.ai
 
 paths:
-  /portmidi:
-    repo: https://github.com/rakyll/portmidi
 
-  /launchpad:
-    repo: https://github.com/rakyll/launchpad
+  /binaries:
+    repo: https://github.com/hasty-ai/labelz/binaries
+
+  /cli:
+    repo: https://github.com/hastyi-ai/hasty-cli
+
+  /client:
+    repo: https://github.com/hasty-ai/hasty-go
